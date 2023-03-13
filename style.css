@@ -1,0 +1,32 @@
+.container {
+    max-width: 500px !important;
+    margin: auto;
+    background-color: black;
+    margin-top: 50px;
+    border-radius: 10px;
+   
+}
+
+.container h2{
+color:#fff;
+padding: 20px;
+text-align: center;
+}
+
+.form-group label{
+    color: #ddd;
+}
+
+.container form{
+    padding: 20px;
+
+}
+
+.form-group{
+    margin-bottom: 15px;
+}
+
+.btn{
+    display: block;
+    width: 100%;
+}
